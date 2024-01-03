@@ -1,0 +1,7 @@
+,Model,Accuracy on Train,Accuracy on Test,Precision,Recall,F1 Score
+0,Logistic Regression - all 28 Features,0.96,0.97,0.98,0.95,0.96
+1,Logistic Regression - top 10 Features,0.96,0.96,0.98,0.94,0.96
+2,Logistic Regression - top 5 Features,0.95,0.95,0.97,0.94,0.95
+3,Extreme Gradient Boost - all 28 Features,1.0,1.0,1.0,1.0,1.0
+4,Extreme Gradient Boost - top 10 Features,1.0,1.0,1.0,1.0,1.0
+5,Extreme Gradient Boost - top 5 Features,0.99,0.99,0.99,0.99,0.99

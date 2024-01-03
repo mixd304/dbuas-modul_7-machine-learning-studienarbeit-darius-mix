@@ -1,0 +1,8 @@
+,Model,Accuracy on Train,Accuracy on Test,Precision,Recall,F1 Score
+0,Logistic Regression,0.96,0.97,0.98,0.95,0.96
+1,Extreme Gradient Boost,1.0,1.0,1.0,1.0,1.0
+2,Naive Bayes,0.92,0.92,0.97,0.86,0.91
+3,Random Forest,0.96,0.95,0.99,0.92,0.95
+4,Decision Tree,1.0,1.0,1.0,1.0,1.0
+5,K-Nearest Neighbors,1.0,1.0,1.0,1.0,1.0
+6,Künstliches Neuronales Netzwerk,1.0,1.0,1.0,1.0,1.0
