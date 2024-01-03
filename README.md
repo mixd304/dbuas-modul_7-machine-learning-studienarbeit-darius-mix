@@ -2,7 +2,7 @@
 
 ## Github-Link
 
-Alle Dateien sind auch über den folgenden Github Link abrufbar: https://github.com/mixd304/dbuas-modul_4-data-mining-studienarbeit.
+Alle Dateien sind auch über den folgenden Github Link abrufbar: https://github.com/mixd304/dbuas-modul_7-machine-learning-studienarbeit-darius-mix.
 
 ## Setup
 
